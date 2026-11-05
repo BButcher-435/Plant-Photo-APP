@@ -1,0 +1,23 @@
+
+# Gizli bilgiler
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Docker volume verileri
+pgdata/
+minio-data/
+
+# Mobil
+mobile/build/
+mobile/.dart_tool/
+node_modules/
